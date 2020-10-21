@@ -42,7 +42,7 @@ Click on a change to see what it consists of (for example [this one](https://git
 
 - For long documents, unchanged **paragraphs will not be displayed by default**. You can manually make them appear by clicking on the small arrows just above or just below the displayed paragraphs.
 - You can use the **History button anywhere** in the repository CGUs-versions, which will then display the **history of changes made to all documents in the folder** where you are (including sub-folders).
-
+TODO
 ## Be notified
 
 ### By email
